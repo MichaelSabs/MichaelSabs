@@ -1,5 +1,5 @@
-Welcome to Michael Sarban Armah's GitHub!
-
+## Welcome to Michael Sarban Armah's GitHub!
+ 
 ## About Me
 
 Greetings! I'm Michael Sarban Armah, also known as Michael Sabs. With a good foundation in Telecommunications Engineering and Computer Networking, I'm on a journey to expand my skill set into the realms of Front-End Development and Graphic Design.
