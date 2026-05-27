@@ -1,36 +1,39 @@
-## Welcome to Michael Sarban Armah's GitHub!
- 
-## About Me
+# Hi there, I'm an upcoming developer! 👋
 
-Greetings! I'm Michael Sarban Armah, also known as Michael Sabs. With a good foundation in Telecommunications Engineering and Computer Networking, I'm on a journey to expand my skill set into the realms of Front-End Development and Graphic Design.
+Welcome to my GitHub profile! I am a passionate, aspiring developer currently learning the ropes, building projects, and diving deep into the world of software development and technology. 
 
-## Current Focus
+---
 
-### Telecommunications Engineering & Computer Networking
-- Experienced in protocols, networking concepts, TCP/IP, routers, and switches.
-- Passionate about ensuring robust and secure network infrastructures.
+### 🚀 About Me
 
-### Front-End Development
-- Recently embarked on learning HTML 5, CSS, and JavaScript.
-- Practicing and honing skills using resources like W3Schools and Mockup to Code.
-- Currently working on exercises for HTML 5 forms to build a strong foundation.
+* 📚 **Learning Journey:** Actively expanding my programming skills and exploring modern technologies.
+* 💡 **Interests:** Problem-solving, clean code, and understanding how complex systems connect.
+* 🎯 **Current Goal:** Building a solid foundation, working on open-source projects, and turning ideas into functional code.
 
-### Graphic Design
-- Exploring design principles and tools to complement my technical skills.
+---
 
-## Projects and Contributions
+### 🛠️ Tech Stack & Tools
 
-I'm excited to share my projects and contributions with you. Here you'll find repositories showcasing my work in:
+*As an upcoming developer, here are the technologies I am currently learning and working with:*
 
-- **Telecommunications Projects:** Innovative solutions and practical implementations in telecom engineering.
-- **Networking Solutions:** Configurations, security protocols, and network optimization projects.
-- **Front-End Development:** HTML 5, CSS, and JavaScript projects as I progress in my learning journey.
-- **Graphic Design:** Creative projects that merge technology and aesthetics.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | HTML, CSS, JavaScript |
+| **Tools & Platforms** | Git, GitHub, VS Code, Antigravity etc |
 
-## Get in Touch
+---
 
-I'm always eager to connect with like-minded individuals and professionals in the industry. Whether you have a question, a project idea, or just want to chat about technology, feel free to reach out.
+### 📈 My Progress & Focus
 
-- **Email:** michaelarmahsarban6413@google.com
+* 💻 **Daily Habit:** Writing code every day to build consistency.
+* 🌿 **Current Focus:** Getting comfortable with version control (Git) and repository structure.
+* 🛠️ **Public Repos:** Check out my repositories below to see what I'm currently tinkering with!
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** [michaelbrain8676@gmail.com](mailto:michaelbrian8676@gmail.com)
+* Feel free to reach out for collaborations, discussions, or just to say hi!
 
 Thank you for visiting my GitHub profile. Let's create something amazing together!
